@@ -73,8 +73,7 @@ python main.py --help
 ```
 
 ## Disclaimer
-The developers of Aetherion are not liable for any damages or legal consequences resulting from misuse. Ensure compliance with all applicable laws and regulations. Misuse of Aetherion can lead to serious legal repercussions.
+The developer (me) of Aetherion are not liable for any damages or legal consequences resulting from misuse. Ensure compliance with all applicable laws and regulations. Misuse of Aetherion can lead to serious legal repercussions.
 
 ## Contributions and Support
 Aetherion is an open-source project, and contributions are welcome! For bug reports, feature requests, or support, please use the repository’s issue tracker and documentation.
-```
