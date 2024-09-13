@@ -6,12 +6,12 @@
 #         \_/ \_/\___|\__|_| |_|\___|_|  |_|\___/|_| |_|  
 # --------------------------------------------------------------
 #               Hyper DoS (HDoS) Tool - Aetherion
-#                    Developed by Rexx
+#                    Developed by WhiteLeaf
 # --------------------------------------------------------------
 # 
 # MIT License
 # 
-# Copyright (c) 2024 Rexx
+# Copyright (c) 2024 WhiteLeaf
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -3427,8 +3427,8 @@ def show_help():
 
     # Add credits and copyright information
     print(f"\n{Fore.GREEN}{Style.BRIGHT}Credits:{Style.RESET_ALL}")
-    print(f"{Fore.CYAN}Developed by Rexx{Style.RESET_ALL}")
-    print(f"\n{Fore.YELLOW}{Style.BRIGHT}Copyright (c) 2024 Rexx{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}Developed by WhiteLeaf{Style.RESET_ALL}")
+    print(f"\n{Fore.YELLOW}{Style.BRIGHT}Copyright (c) 2024 WhiteLeaf{Style.RESET_ALL}")
 
 
 def set_flag(val):
