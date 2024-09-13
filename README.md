@@ -5,9 +5,6 @@
 ## Overview
 Aetherion is a cutting-edge Hyper Denial of Service (HDoS) tool developed in Python, designed for high-intensity network stress testing. It simulates large-scale denial of service attacks to assess the robustness of network infrastructures and services. This tool is ideal for security researchers, penetration testers, and network administrators who need to perform advanced stress testing, while emphasizing ethical use.
 
-![image](https://github.com/user-attachments/assets/e4c53ce0-07c9-4428-ae2e-4060e09d3b72)
-
-
 ## Core Features
 - **TCP Flood Attack:** Floods the target’s TCP connections with a high volume of valid HTTP requests. Utilizes up to 2000 concurrent threads to maximize impact and test resilience.
 - **UDP Flood Attack:** Sends a large volume of UDP packets to the target, causing potential network congestion and service interruptions.
